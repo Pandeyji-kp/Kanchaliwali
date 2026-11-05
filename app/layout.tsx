@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Kanchali Wali | The Art of Rajasthani Heritage",
+  title: "Kanchali Wali | Rajasthani Heritage Fashion",
   description:
-    "Discover the beauty of traditional Rajasthani clothing, heritage craftsmanship and timeless Indian fashion.",
+    "Discover traditional Rajasthani fashion and timeless Indian elegance.",
 };
 
 export default function RootLayout({
